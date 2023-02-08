@@ -73,3 +73,5 @@ manager.deleteProduct(1);
 manager.getProducts();
 manager.updateProduct(2,"Producto prueba b ", "Este es un producto prueba b ", 400, "Sin imagen", "abc124", 25);
 manager.getProducts();
+
+
